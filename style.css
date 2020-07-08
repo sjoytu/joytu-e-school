@@ -1,0 +1,92 @@
+.container{
+    margin-bottom: 100px;
+}
+.logo{
+    width: 100px;;
+}
+.sign-in{
+    border: none;
+    border-radius: 20px;
+    background-color: #21B573;
+    padding: 0 20px;
+    color: white;
+}
+.nav-item{
+    margin: 15px;
+}
+.btn-get-started{
+    border: none;
+    color: white;
+    background-color: #21B573;
+    border-radius: 20px;
+    padding: 5px 30px;
+}
+.col-md-6{
+    margin-bottom: 100px;
+}
+#red-line{
+    color: red;
+}
+#green-headline{
+    color: #21B573;
+}
+#paragraph{
+    color: gray;
+}
+.navbar-light{
+    background-color: #F0FFF0;
+}
+.bg-color{
+    background-color: #F0FFF0; 
+}
+.card-img-top{
+   padding: 40px 40px;
+   height: 50%;
+}
+.feature{
+    background-color: #F8FFFB;
+    border: none;
+    border-radius: 20px;
+}
+.feature-box{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px grey;
+}
+.course-icon{
+    height: 25px;
+    width: 25px;
+}
+.margin{
+    margin-top: 20px;
+}
+.online-courses{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px grey;
+}
+h2{
+    text-align: center;
+}
+.man-picture{
+    height: 250px;
+    width: 250px;
+    padding: 50px;
+}
+.testimonial{
+    padding: 0 200px;
+}
+.bottom-container{
+    background-color: black;
+    padding: 50px 50px;
+    margin: 20px;
+}
+.bottom-card{
+    background-color: black;
+    color: white;
+}
+footer{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
